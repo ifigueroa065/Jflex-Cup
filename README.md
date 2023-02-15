@@ -1,6 +1,9 @@
 #  :computer: Jflex-Cup :green_heart:
 Herramientas que puedes utilizar para análisis Léxico y Sintáctico
 
+- Apache NetBeans IDE 16
+- Java: 19.0.2
+
 ##  :mag: JFlex
 
 ##   :arrow_lower_right: Lo que debes descargar 
