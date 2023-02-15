@@ -1,10 +1,10 @@
-# Jflex-Cup
+#  :computer: Jflex-Cup
 Herramientas que puedes utilizar para análisis Léxico y Sintáctico
 
 
-## :white_check_mark: GENERADORES
+## GENERADORES :alien::purple_heart:
 
-### :pencil: JFLEX (Análisis Léxico)
+### :mag: JFLEX (Análisis Léxico)
   ```  
       ☑️ se coloca la ruta donde tenemos instalado el JDK
 
