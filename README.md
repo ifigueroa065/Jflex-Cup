@@ -1,10 +1,14 @@
-#  :computer: Jflex-Cup
+#  :computer: Jflex-Cup :green_heart:
 Herramientas que puedes utilizar para análisis Léxico y Sintáctico
 
+##  :mag: JFlex
 
-## GENERADORES :alien::purple_heart:
+##   :arrow_lower_right: Lo que debes descargar 
+      https://www.jflex.de/
+      
+## Generador - Análisis Léxico :alien::purple_heart:
 
-### :mag: JFLEX (Análisis Léxico)
+### 
   ```  
       ☑️ se coloca la ruta donde tenemos instalado el JDK
 
@@ -18,12 +22,16 @@ Herramientas que puedes utilizar para análisis Léxico y Sintáctico
       ☑️ Se utiliza la ruta del jflex.rar y el nombre del archivo a crear
       java -jar C:\Users\isail\OneDrive\Documents\Jflex-Cup\Ejemplo\Fuentes\jflex-1.9.0\lib\jflex-full-1.8.2.jar A_Lexico.jflex
       pause 
-  ```
+  ```      
 
+##  :tea: CUP
 
-###  :tea: CUP (Análisis Sintáctico)
+##   :arrow_lower_right: Lo que debes descargar 
+      http://www2.cs.tum.edu/projects/cup/
 
+## Generador - Análisis Sintáctico :alien::yellow_heart:
 
+### 
 
  ```  
       ☑️ se coloca la ruta donde tenemos instalado el JDK
