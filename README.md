@@ -1,4 +1,4 @@
-#  :computer: Jflex-Cup :green_heart:
+#  :computer: Jflex-Cu :green_heart:
 Herramientas que puedes utilizar para análisis Léxico y Sintáctico
 
 - Apache NetBeans IDE 16
